@@ -2,11 +2,11 @@
 My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend development and aim to expand my skills to fullstack development in the near future.
 ## 📫 How to reach me: 
 
-[![GitHub](https://github.com/phihung2752) GitHub](https://github.com/phihung2752)
+[![GitHub](https://github.com/phihung2752) GitHub]( https://github.com/phihung2752)
 
 
+![Phi Hưng github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=phihung2752&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-![Phi Hưng github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/phihung2752/phihung-quan-ly-nha-hang">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
