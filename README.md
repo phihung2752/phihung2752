@@ -2,7 +2,7 @@
 My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend development and aim to expand my skills to fullstack development in the near future.
 ## 📫 How to reach me: 
 
-[![GitHub](https://github.com/phihung2752) GitHub](https://github.com/phihung2752) Youtube](https://www.youtube.com/@PhiHungNguyen-ez1ts/featured)
+[![GitHub](https://github.com/phihung2752) GitHub](https://github.com/phihung2752)
 
 
 
