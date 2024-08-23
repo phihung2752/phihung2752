@@ -17,3 +17,8 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Fastfood&theme=radical"/>
 </a>
 
+<a href="https://github.com/phihung2752/Build-LinkedIn-">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Build-LinkedIn-&theme=synthwave"/>
+</a>
+
+
