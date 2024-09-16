@@ -20,5 +20,10 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
 <a href="https://github.com/phihung2752/Build-LinkedIn-">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Build-LinkedIn-&theme=synthwave"/>
 </a>
+<a href="https://github.com/phihung2752/a-Hulu-Clone-with-REACT.JS">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=a-Hulu-Clone-with-REACT.JS&theme=tokyonight"/>
+</a>
+
+
 
 
