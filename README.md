@@ -35,5 +35,8 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
 </a>   
 
 <!--  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
-
+<a href="https://github.com/phihung2752/Google-Calendar-Clone">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Google-Calendar-Clone&theme=vue-dark" />
+</a>   
 
