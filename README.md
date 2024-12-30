@@ -11,6 +11,11 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
 <a href="https://github.com/phihung2752/Music-streaming-application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Music-streaming-application&theme=merko" />
+</a>
+
+<a href="https://github.com/phihung2752/Recruitment-Management">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Recruitment-Management&theme=dracula" />
 </a>   
 
 <a href="https://github.com/phihung2752/Fastfood">
