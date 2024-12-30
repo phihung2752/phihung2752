@@ -10,7 +10,7 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
 
 <a href="https://github.com/phihung2752/Music-streaming-application">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Music-streaming-application&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Music-streaming-application&theme=algolia" />
 </a>
 
 <a href="https://github.com/phihung2752/Recruitment-Management">
@@ -29,6 +29,11 @@ My name is Nguyễn Ngọc Phi Hưng.I am currently focused on frontend developm
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=a-Hulu-Clone-with-REACT.JS&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/phihung2752/Fastfood">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=phihung2752&repo=Fastfood&theme=prussian" />
+</a>   
 
+<!--  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
 
 
